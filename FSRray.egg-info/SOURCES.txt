@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+FSRray.egg-info/PKG-INFO
+FSRray.egg-info/SOURCES.txt
+FSRray.egg-info/dependency_links.txt
+FSRray.egg-info/requires.txt
+FSRray.egg-info/top_level.txt
